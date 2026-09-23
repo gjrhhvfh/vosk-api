@@ -1,5 +1,0 @@
-flask
-faster-whisper
-gtts
-gunicorn
-numpy
