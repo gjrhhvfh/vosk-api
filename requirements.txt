@@ -1,5 +1,0 @@
-flask
-gtts
-gunicorn
-numpy
-onnx-asr[cpu,hub]
